@@ -42,3 +42,4 @@ def match_info(client, match):
 
 if __name__ == '__main__':
     display_match_score()
+
